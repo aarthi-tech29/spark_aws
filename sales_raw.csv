@@ -1,0 +1,11 @@
+order_id,store_id,product,category,quantity,price,sales_amount,order_date,city
+1001,S01,Laptop,Electronics,1,55000,55000,1/5/2024,Chennai
+1002,S01,Mouse,Electronics,2,800,1600,1/5/2024,Chennai
+1003,S02,Keyboard,Electronics,1,1500,1500,1/6/2024,Madurai
+1004,S03,Monitor,Electronics,1,12000,12000,1/6/2024,Coimbatore
+1005,S02,Printer,Electronics,,9000,,1/7/2024,Madurai
+1006,S01,Laptop,Electronics,1,56000,56000,1/8/2024,Chennai
+1007,S03,Mouse,Electronics,3,800,2400,1/8/2024,Coimbatore
+1008,S04,Keyboard,Electronics,2,1500,3000,1/9/2024,Salem
+1009,S04,Monitor,Electronics,1,12500,12500,1/9/2024,Salem
+1010,S02,Printer,Electronics,1,9200,9200,1/10/2024,Madurai

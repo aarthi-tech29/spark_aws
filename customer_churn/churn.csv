@@ -1,0 +1,11 @@
+customer_id,gender,senior_citizen,partner,dependents,tenure_months,phone_service,internet_service,contract_type,payment_method,monthly_charges,total_charges,avg_monthly_usage,complaints,churn
+1001,Female,0,Yes,No,5,Yes,Fiber optic,Month-to-month,Electronic check,75.5,377.5,12,1,Y
+1002,Male,1,No,No,36,Yes,DSL,One year,Mailed check,45,1620,8,0,N
+1003,Female,0,Yes,Yes,12,Yes,Fiber optic,Month-to-month,Credit card,90,1080,14,2,Y
+1004,Male,0,No,No,60,Yes,DSL,Two year,Bank transfer,40,2400,7,0,N
+1005,Female,1,Yes,Yes,8,Yes,Fiber optic,Month-to-month,Electronic check,85,680,13,1,Y
+1006,Male,0,No,No,24,Yes,DSL,One year,Credit card,50,1200,8.5,0,N
+1007,Female,0,Yes,No,18,Yes,Fiber optic,Month-to-month,Bank transfer,70,1260,10,1,Y
+1008,Male,1,No,No,48,Yes,DSL,Two year,Electronic check,42,2016,7.5,0,N
+1009,Female,0,Yes,Yes,10,Yes,Fiber optic,Month-to-month,Credit card,80,800,11,1,Y
+1010,Male,0,No,No,30,Yes,DSL,One year,Bank transfer,48,1440,8,0,N
